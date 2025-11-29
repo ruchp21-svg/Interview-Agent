@@ -1,45 +1,79 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Interview Agent</title>
     <style>
-        body { font-family: Arial; max-width: 800px; margin: 50px auto; padding: 20px; }
-        button { background: #0066cc; color: white; padding: 10px 20px; border: none; cursor: pointer; }
-        textarea { width: 100%; height: 100px; margin: 10px 0; }
-        .question { background: #f0f0f0; padding: 15px; margin: 10px 0; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; background: white; padding: 40px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #333; margin-bottom: 30px; }
+        select, button { padding: 12px 20px; font-size: 16px; margin: 10px 5px 10px 0; border-radius: 5px; border: 1px solid #ddd; }
+        button { background: #0066cc; color: white; border: none; cursor: pointer; }
+        button:hover { background: #0052a3; }
+        .question { background: #f9f9f9; padding: 20px; margin: 20px 0; border-radius: 5px; border-left: 4px solid #0066cc; }
+        textarea { width: 100%; padding: 12px; font-size: 14px; border: 1px solid #ddd; border-radius: 5px; margin: 10px 0; min-height: 120px; }
+        .complete { text-align: center; color: #28a745; }
     </style>
 </head>
 <body>
-    <h1>AI Interview Agent</h1>
-    <select id="jobSelect">
-        <option>Data Scientist</option>
-        <option>ML Engineer</option>
-        <option>Backend Engineer</option>
-    </select>
-    <button onclick="startInterview()">Start Interview</button>
-    <div id="interview"></div>
+    <div class="container">
+        <h1>🎯 AI Interview Agent</h1>
+        <div id="setup">
+            <label>Select Job Role:</label><br>
+            <select id="jobSelect">
+                <option>Data Scientist</option>
+                <option>ML Engineer</option>
+                <option>Backend Engineer</option>
+                <option>Frontend Engineer</option>
+                <option>DevOps Engineer</option>
+            </select><br>
+            <button onclick="startInterview()">Start Interview</button>
+        </div>
+        <div id="interview"></div>
+    </div>
     <script>
         let currentQ = 0;
         const questions = [
-            "Explain your experience with machine learning",
-            "Describe a challenging project you worked on",
-            "How do you handle production issues?",
-            "What's your approach to code review?",
-            "Tell me about a time you optimized performance"
+            "Explain your experience with machine learning and data science",
+            "Describe a challenging technical project you worked on",
+            "How do you handle production issues and debugging?",
+            "What's your approach to code review and collaboration?",
+            "Tell me about a time you optimized system performance"
         ];
+        const answers = [];
+        
         function startInterview() {
+            document.getElementById('setup').style.display = 'none';
+            showQuestion();
+        }
+        
+        function showQuestion() {
             document.getElementById('interview').innerHTML = `
                 <div class="question">
-                    <h3>Question ${currentQ + 1}/${questions.length}</h3>
-                    <p>${questions[currentQ]}</p>
-                    <textarea id="answer"></textarea>
-                    <button onclick="submitAnswer()">Submit</button>
+                    <h3>Question ${currentQ + 1} of ${questions.length}</h3>
+                    <p><strong>${questions[currentQ]}</strong></p>
+                    <textarea id="answer" placeholder="Type your answer here..."></textarea>
+                    <button onclick="submitAnswer()">Submit Answer</button>
                 </div>`;
         }
+        
         function submitAnswer() {
+            const answer = document.getElementById('answer').value;
+            answers.push({question: questions[currentQ], answer: answer});
             currentQ++;
-            if (currentQ < questions.length) startInterview();
-            else document.getElementById('interview').innerHTML = '<h2>Interview Complete!</h2>';
+            
+            if (currentQ < questions.length) {
+                showQuestion();
+            } else {
+                document.getElementById('interview').innerHTML = `
+                    <div class="complete">
+                        <h2>✅ Interview Complete!</h2>
+                        <p>Thank you for completing the interview.</p>
+                        <button onclick="location.reload()">Start New Interview</button>
+                    </div>`;
+            }
         }
     </script>
 </body>
