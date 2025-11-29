@@ -6,9 +6,8 @@ pandas
 sqlalchemy
 reportlab
 python-dotenv
-fpdf
+fpdf2
 anthropic
 pytz
-pytest
 pyyaml
 requests
