@@ -1,0 +1,45 @@
+{
+  "session_id": "94d79fec-c564-4866-80c1-93330cab5d17",
+  "job": "sample_jd.txt",
+  "candidate_id": "72e28386-a53a-4936-bbc7-432974bb0977",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Explain the most challenging bug you solved and the steps you took.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Explain the most challenging bug you solved and the steps you took.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Explain the most challenging bug you solved and the steps you took.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Explain the difference between optimistic and pessimistic concurrency control.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764403300.6679797
+}

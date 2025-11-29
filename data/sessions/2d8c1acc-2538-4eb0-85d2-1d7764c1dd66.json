@@ -1,0 +1,45 @@
+{
+  "session_id": "2d8c1acc-2538-4eb0-85d2-1d7764c1dd66",
+  "job": "data_scientist.txt",
+  "candidate_id": "c9297da1-7630-4fd2-bd83-3f3646337369",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Design API endpoints for a service in Machine Learning Engineer that need to handle high throughput. Explain scalability choices.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Design API endpoints for a service in Machine Learning Engineer that need to handle high throughput. Explain scalability choices.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Given this job, write a technical problem solving question focusing on algorithms or system design for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Given this job, write a technical problem solving question focusing on algorithms or system design for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Give a live-coding style prompt for implementing a short function that manipulates data structures used in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764409930.687413
+}

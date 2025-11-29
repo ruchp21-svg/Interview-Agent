@@ -1,0 +1,45 @@
+{
+  "session_id": "93b5c343-d331-4156-8aa2-cf66db67d83b",
+  "job": "sample_jd.txt",
+  "candidate_id": "f3607556-c871-4f47-b530-5a41fa6d3d5b",
+  "questions": [
+    {
+      "id": "1",
+      "text": "How do you prioritize features when time is limited?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Design a scalable system for Engineer\\n\\nWe that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "How do you prioritize features when time is limited?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Explain the difference between optimistic and pessimistic concurrency control.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764403297.3550503
+}

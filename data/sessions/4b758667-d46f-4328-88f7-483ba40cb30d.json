@@ -1,0 +1,45 @@
+{
+  "session_id": "4b758667-d46f-4328-88f7-483ba40cb30d",
+  "job": "data_scientist.txt",
+  "candidate_id": "db97b110-a366-4ae6-b2e5-f729ac6d3a01",
+  "questions": [
+    {
+      "id": "1",
+      "text": "How do you prioritize features when time is limited?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Explain the most challenging bug you solved and the steps you took.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Explain the difference between optimistic and pessimistic concurrency control.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Design a scalable system for scientist that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764406982.1840775
+}

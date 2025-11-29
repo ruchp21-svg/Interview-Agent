@@ -1,0 +1,63 @@
+{
+  "session_id": "ea75f744-f304-4f20-a9a3-1f3927a93d43",
+  "job": "data_scientist.txt",
+  "candidate_id": "98e926a8-50c4-433b-a2d7-e26b08ea3663",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Design API endpoints for a service in Machine Learning Engineer that need to handle high throughput. Explain scalability choices.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Design API endpoints for a service in Machine Learning Engineer that need to handle high throughput. Explain scalability choices.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Ask the candidate to optimize this SQL pattern for scale in Machine Learning Engineer and discuss tradeoffs.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Give a live-coding style prompt for implementing a short function that manipulates data structures used in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Ask the candidate to optimize this SQL pattern for scale in Machine Learning Engineer and discuss tradeoffs.",
+      "metadata": {
+        "source": "mock_openai"
+      }
+    }
+  ],
+  "responses": [
+    {
+      "question": {
+        "id": "1",
+        "text": "Design API endpoints for a service in Machine Learning Engineer that need to handle high throughput. Explain scalability choices.",
+        "metadata": {
+          "source": "mock_openai"
+        }
+      },
+      "answer": "cxcdcdc",
+      "evaluation": {
+        "technical": 1,
+        "communication": 1.01,
+        "culture": 3.0,
+        "notes": "heuristic evaluation"
+      },
+      "answered_at": 1764409946.9604
+    }
+  ],
+  "current_index": 1,
+  "started_at": 1764409937.8966887
+}

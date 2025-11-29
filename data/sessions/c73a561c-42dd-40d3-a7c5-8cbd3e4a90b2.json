@@ -1,0 +1,45 @@
+{
+  "session_id": "c73a561c-42dd-40d3-a7c5-8cbd3e4a90b2",
+  "job": "data_scientist.txt",
+  "candidate_id": "a0c4a8ac-ac87-493b-ad2d-a4d9ab90d42c",
+  "questions": [
+    {
+      "id": "1",
+      "text": "What is a machine learning model? Give a simple example for Data.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "What steps would you take to evaluate a model quickly for Scientist?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "What is a machine learning model? Give a simple example for We.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Describe in simple terms how you would build a training pipeline for scientist.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "What is a machine learning model? Give a simple example for experienced.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764409159.5602036
+}

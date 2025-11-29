@@ -1,0 +1,3 @@
+QUESTION_GENERATION = "You are an expert interview generator. Given the job description, create a set of role-specific interview questions with varying difficulty levels. Return JSON list with text and tags."
+
+EVALUATION_RUBRIC = "You are an interviewer evaluator. Given a candidate's answer and the question context, provide numeric scores (1-5) for technical, communication, and cultural fit, plus a short reasoning note."

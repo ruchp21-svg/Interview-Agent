@@ -1,0 +1,50 @@
+{
+  "session_id": "ee8f8afa-f71c-4acc-be88-fd6a2fda05d5",
+  "job": "data_scientist.txt",
+  "candidate_id": "9f8c5d5b-4571-402c-b00c-6ae6578160d7",
+  "questions": [
+    {
+      "id": "1",
+      "text": "What is what steps would you take to evaluate a model quickly for Machine Learning Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "In simple terms, describe in simple terms how you would build a training pipeline for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "What is what steps would you take to evaluate a model quickly for Machine Learning Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "What is what steps would you take to evaluate a model quickly for Machine Learning Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "In simple terms, what steps would you take to evaluate a model quickly for Machine Learning Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764412540.04093,
+  "interviewer": {
+    "name": "Ruchitha",
+    "title": "",
+    "bio": ""
+  }
+}

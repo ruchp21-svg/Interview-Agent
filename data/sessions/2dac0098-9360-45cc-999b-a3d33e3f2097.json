@@ -1,0 +1,80 @@
+{
+  "session_id": "2dac0098-9360-45cc-999b-a3d33e3f2097",
+  "job": "product_manager.txt",
+  "candidate_id": "d68083c5-b13c-442a-a9d9-26f26b1e5f42",
+  "questions": [
+    {
+      "id": "1",
+      "text": "[LLM-generated question 1 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    },
+    {
+      "id": "2",
+      "text": "[LLM-generated question 2 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    },
+    {
+      "id": "3",
+      "text": "[LLM-generated question 3 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    },
+    {
+      "id": "4",
+      "text": "[LLM-generated question 4 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    },
+    {
+      "id": "5",
+      "text": "[LLM-generated question 5 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    },
+    {
+      "id": "6",
+      "text": "[LLM-generated question 6 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    },
+    {
+      "id": "7",
+      "text": "[LLM-generated question 7 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    },
+    {
+      "id": "8",
+      "text": "[LLM-generated question 8 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    },
+    {
+      "id": "9",
+      "text": "[LLM-generated question 9 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    },
+    {
+      "id": "10",
+      "text": "[LLM-generated question 10 for job excerpt]",
+      "metadata": {
+        "source": "openai"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764404284.761568
+}

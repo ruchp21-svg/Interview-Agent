@@ -1,0 +1,10 @@
+DevOps / Site Reliability Engineer
+
+Seeking a SRE to build resilient systems, CI/CD pipelines, observability and infrastructure automation. Required: Linux, Terraform, Docker, Kubernetes, monitoring and incident response.
+
+Responsibilities:
+- Implement CI/CD and infra-as-code
+- Improve system reliability and automate runbook tasks
+- Partner with engineering to reduce MTTR
+
+Nice to have: deep knowledge of cloud networking, service meshes, and cost optimization.

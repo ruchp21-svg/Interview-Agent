@@ -1,0 +1,73 @@
+{
+  "session_id": "82220094-70d0-4181-8bdf-1e18fbfb041e",
+  "job": "ml_engineer.txt",
+  "candidate_id": "b538499e-7680-4ddf-b6f0-600c2e5fdcd0",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Explain the difference between optimistic and pessimistic concurrency control.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Design a scalable system for Engineer that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Explain the most challenging bug you solved and the steps you took.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Explain the most challenging bug you solved and the steps you took.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "6",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "7",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "8",
+      "text": "Explain the most challenging bug you solved and the steps you took.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "9",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764406993.0758557
+}

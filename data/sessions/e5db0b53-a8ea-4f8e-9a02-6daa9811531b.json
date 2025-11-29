@@ -1,0 +1,45 @@
+{
+  "session_id": "e5db0b53-a8ea-4f8e-9a02-6daa9811531b",
+  "job": "data_scientist.txt",
+  "candidate_id": "9d8be58e-0232-406e-9cd4-8b4747727e2d",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Design a scalable system for Data that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "How do you prioritize features when time is limited?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "How do you prioritize features when time is limited?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Design a scalable system for scientist that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Write the SQL and explain how you'd optimize this query for large scale.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764405359.8676708
+}

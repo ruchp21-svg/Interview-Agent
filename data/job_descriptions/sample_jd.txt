@@ -1,0 +1,1 @@
+Senior Backend Engineer\n\nWe are seeking an experienced backend engineer with strong skills in Python, distributed systems, and SQL. The ideal candidate will have experience building scalable APIs, optimizing database queries, and familiarity with caching strategies and observability (Prometheus, Grafana).\n

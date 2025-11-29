@@ -1,0 +1,45 @@
+{
+  "session_id": "c07e7908-223d-48fc-b193-417fd81592f4",
+  "job": "data_scientist.txt",
+  "candidate_id": "ee953027-8fb4-4bc2-8af3-995a893591f6",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Explain simply: what steps would you take to evaluate a model quickly for Machine Learning Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "What is describe in simple terms how you would build a training pipeline for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Explain simply: describe in simple terms how you would build a training pipeline for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "In simple terms, describe in simple terms how you would build a training pipeline for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "In simple terms, describe in simple terms how you would build a training pipeline for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764409885.1536403
+}

@@ -1,0 +1,10 @@
+Data Scientist
+
+We are hiring a data scientist experienced in machine learning, statistical analysis, and production model deployment. Required: Python, pandas, scikit-learn, model evaluation, feature engineering, and SQL.
+
+Responsibilities:
+- Analyze large datasets and build ML models
+- Deploy and monitor models in production
+- Collaborate with product and engineering to turn insights into impact
+
+Nice to have: expertise in deep learning (PyTorch/TensorFlow), MLOps, and data visualization tools.

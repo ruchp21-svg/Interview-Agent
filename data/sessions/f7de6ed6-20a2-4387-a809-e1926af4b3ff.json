@@ -1,0 +1,45 @@
+{
+  "session_id": "f7de6ed6-20a2-4387-a809-e1926af4b3ff",
+  "job": "data_scientist.txt",
+  "candidate_id": "3b4077a9-0081-4fd4-ad27-2ca9fa28cb44",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Explain the model architecture you would choose for Data and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Explain the model architecture you would choose for Scientist and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Explain the model architecture you would choose for We and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Walk me through how you'd build a feature pipeline for scientist and how you'd ensure data quality.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Explain the model architecture you would choose for experienced and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764409172.668915
+}

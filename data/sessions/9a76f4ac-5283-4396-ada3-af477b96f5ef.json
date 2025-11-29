@@ -1,0 +1,45 @@
+{
+  "session_id": "9a76f4ac-5283-4396-ada3-af477b96f5ef",
+  "job": "data_scientist.txt",
+  "candidate_id": "912c4823-3a91-4c06-8b06-88131cf1895a",
+  "questions": [
+    {
+      "id": "1",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Design a scalable system for Scientist that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Write the SQL and explain how you'd optimize this query for large scale.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Design a scalable system for experienced that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764406980.1740477
+}

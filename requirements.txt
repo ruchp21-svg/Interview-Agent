@@ -1,0 +1,14 @@
+streamlit
+openai
+langchain
+chromadb
+pandas
+sqlalchemy
+reportlab
+python-dotenv
+fpdf
+anthropic
+pytz
+pytest
+pyyaml
+requests

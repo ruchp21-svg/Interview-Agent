@@ -1,0 +1,10 @@
+Machine Learning Engineer
+
+An ML Engineer to transform models into reliable production services. Required: Python, model optimization, feature pipelines, model deployment (Docker, K8s), and monitoring.
+
+Responsibilities:
+- Productionize ML models and build scalable inference systems
+- Design feature stores and data pipelines
+- Work with research teams to put models into production
+
+Nice to have: experience with model explainability, online learning, and large-scale inference.

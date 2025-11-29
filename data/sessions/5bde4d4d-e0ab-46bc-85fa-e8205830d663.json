@@ -1,0 +1,45 @@
+{
+  "session_id": "5bde4d4d-e0ab-46bc-85fa-e8205830d663",
+  "job": "sample_jd.txt",
+  "candidate_id": "c1ed4351-b085-48cf-8ebb-94d10c6a9202",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Explain the most challenging bug you solved and the steps you took.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Write the SQL and explain how you'd optimize this query for large scale.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Explain the difference between optimistic and pessimistic concurrency control.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Write the SQL and explain how you'd optimize this query for large scale.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Explain the difference between optimistic and pessimistic concurrency control.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764403302.7537346
+}

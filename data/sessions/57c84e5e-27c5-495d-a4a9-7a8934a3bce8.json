@@ -1,0 +1,63 @@
+{
+  "session_id": "57c84e5e-27c5-495d-a4a9-7a8934a3bce8",
+  "job": "sample_jd.txt",
+  "candidate_id": "7dad5f56-e49f-4903-a5de-8eab08042085",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Explain the most challenging bug you solved and the steps you took.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "How would you approach testing a distributed caching layer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Design a scalable system for Engineer\\n\\nWe that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Write the SQL and explain how you'd optimize this query for large scale.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "How do you prioritize features when time is limited?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [
+    {
+      "question": {
+        "id": "1",
+        "text": "Explain the most challenging bug you solved and the steps you took.",
+        "metadata": {
+          "source": "mock"
+        }
+      },
+      "answer": "",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "culture": 0.0,
+        "notes": "No answer provided"
+      },
+      "answered_at": 1764403291.829233
+    }
+  ],
+  "current_index": 1,
+  "started_at": 1764403283.5638187
+}

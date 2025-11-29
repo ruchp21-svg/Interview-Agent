@@ -1,0 +1,11 @@
+Frontend Engineer
+
+We're looking for a frontend engineer who creates delightful, fast, accessible user interfaces. Required: React, TypeScript, CSS/Tailwind, performance tuning, testing (Jest/Playwright), and UI/UX collaboration.
+
+Responsibilities:
+- Build responsive web interfaces
+- Ensure performance and accessibility
+- Work with designers to prototype and iterate
+- Ship polished end-to-end features
+
+Nice to have: familiarity with design systems, SSR frameworks (Next.js), and telemetry.

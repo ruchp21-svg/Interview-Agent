@@ -1,0 +1,50 @@
+{
+  "session_id": "7ed4a024-c746-481e-b3c5-5b014554d764",
+  "job": "data_scientist.txt",
+  "candidate_id": "b5b34ad1-4798-473c-8c35-be80dfd33c28",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Explain simply: explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Explain simply: describe how you'd evaluate model performance in production and detect model drift for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "In simple terms, describe how you'd evaluate model performance in production and detect model drift for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "In simple terms, walk me through how you'd build a feature pipeline for Machine Learning Engineer and how you'd ensure data quality.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Explain simply: explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764412557.998425,
+  "interviewer": {
+    "name": "Ruchitha",
+    "title": "",
+    "bio": ""
+  }
+}

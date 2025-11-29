@@ -1,0 +1,45 @@
+{
+  "session_id": "b457e216-e29b-40c9-abc0-00e952c783e2",
+  "job": "product_manager.txt",
+  "candidate_id": "0a24d951-7703-4e50-8671-108cbd16c3e7",
+  "questions": [
+    {
+      "id": "1",
+      "text": "How do you prioritize features when time is limited?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Explain the difference between optimistic and pessimistic concurrency control.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "How do you prioritize features when time is limited?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Design a scalable system for seeking that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Design a scalable system for product that handles 1M users. Describe components and tradeoffs.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764404174.1782978
+}

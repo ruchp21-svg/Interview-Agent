@@ -1,0 +1,11 @@
+Senior Backend Engineer
+
+We are seeking an experienced backend engineer to build and maintain large-scale distributed systems. Required: Python, SQL, API design, performance optimization, caching strategies (Redis/Memcached), observability (Prometheus/Grafana), microservices and message-driven architecture.
+
+Responsibilities:
+- Design, build and operate resilient backend services
+- Optimize database queries and schema design for scale
+- Collaborate on API design and documentation
+- Mentor junior engineers and perform code reviews
+
+Nice to have: experience with cloud platforms (AWS/GCP), distributed tracing, event streaming (Kafka).

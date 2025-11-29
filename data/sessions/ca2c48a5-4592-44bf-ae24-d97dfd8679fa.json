@@ -1,0 +1,132 @@
+{
+  "session_id": "ca2c48a5-4592-44bf-ae24-d97dfd8679fa",
+  "job": "data_scientist.txt",
+  "candidate_id": "2b63fd12-8d20-44c0-920c-d3556a768075",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Walk me through how you'd build a feature pipeline for Machine Learning Engineer and how you'd ensure data quality.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Walk me through how you'd build a feature pipeline for Machine Learning Engineer and how you'd ensure data quality.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Describe how you'd evaluate model performance in production and detect model drift for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Describe how you'd evaluate model performance in production and detect model drift for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [
+    {
+      "question": {
+        "id": "1",
+        "text": "Walk me through how you'd build a feature pipeline for Machine Learning Engineer and how you'd ensure data quality.",
+        "metadata": {
+          "source": "mock"
+        }
+      },
+      "answer": "djdeesd;lek",
+      "evaluation": {
+        "technical": 1,
+        "communication": 1.0125,
+        "culture": 3.0,
+        "notes": "heuristic evaluation"
+      },
+      "answered_at": 1764413224.7463205
+    },
+    {
+      "question": {
+        "id": "2",
+        "text": "Walk me through how you'd build a feature pipeline for Machine Learning Engineer and how you'd ensure data quality.",
+        "metadata": {
+          "source": "mock"
+        }
+      },
+      "answer": "djdeesd;lek",
+      "evaluation": {
+        "technical": 1,
+        "communication": 1.0125,
+        "culture": 3.0,
+        "notes": "heuristic evaluation"
+      },
+      "answered_at": 1764413228.594737
+    },
+    {
+      "question": {
+        "id": "3",
+        "text": "Describe how you'd evaluate model performance in production and detect model drift for Machine Learning Engineer.",
+        "metadata": {
+          "source": "mock"
+        }
+      },
+      "answer": "djdeesd;lek",
+      "evaluation": {
+        "technical": 1,
+        "communication": 1.0125,
+        "culture": 3.0,
+        "notes": "heuristic evaluation"
+      },
+      "answered_at": 1764413229.2099113
+    },
+    {
+      "question": {
+        "id": "4",
+        "text": "Explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+        "metadata": {
+          "source": "mock"
+        }
+      },
+      "answer": "djdeesd;lek",
+      "evaluation": {
+        "technical": 1,
+        "communication": 1.0125,
+        "culture": 3.0,
+        "notes": "heuristic evaluation"
+      },
+      "answered_at": 1764413230.3943949
+    },
+    {
+      "question": {
+        "id": "5",
+        "text": "Describe how you'd evaluate model performance in production and detect model drift for Machine Learning Engineer.",
+        "metadata": {
+          "source": "mock"
+        }
+      },
+      "answer": "djdeesd;lek",
+      "evaluation": {
+        "technical": 1,
+        "communication": 1.0125,
+        "culture": 3.0,
+        "notes": "heuristic evaluation"
+      },
+      "answered_at": 1764413232.1633012
+    }
+  ],
+  "current_index": 5,
+  "started_at": 1764413217.3291223,
+  "interviewer": {}
+}

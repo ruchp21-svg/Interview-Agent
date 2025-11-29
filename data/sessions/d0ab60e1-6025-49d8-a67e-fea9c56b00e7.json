@@ -1,0 +1,45 @@
+{
+  "session_id": "d0ab60e1-6025-49d8-a67e-fea9c56b00e7",
+  "job": "data_scientist.txt",
+  "candidate_id": "372e6107-cd16-43fc-8d03-c07e6b900789",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "How would you optimize inference performance (latency and throughput) for models serving Machine Learning Engineer traffic?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "How would you optimize inference performance (latency and throughput) for models serving Machine Learning Engineer traffic?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764409589.0293105
+}

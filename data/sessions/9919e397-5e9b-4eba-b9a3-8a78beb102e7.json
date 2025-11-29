@@ -1,0 +1,45 @@
+{
+  "session_id": "9919e397-5e9b-4eba-b9a3-8a78beb102e7",
+  "job": "data_scientist.txt",
+  "candidate_id": "5d2a3b9d-b3b5-4b70-a87f-8e891ad09833",
+  "questions": [
+    {
+      "id": "1",
+      "text": "How would you optimize inference performance (latency and throughput) for models serving Data traffic?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Explain the model architecture you would choose for Scientist and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Explain the model architecture you would choose for We and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in scientist.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "How would you optimize inference performance (latency and throughput) for models serving experienced traffic?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764408629.5845776
+}

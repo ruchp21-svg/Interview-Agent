@@ -1,0 +1,63 @@
+{
+  "session_id": "75675176-a0da-4eda-9298-05a99c4d0415",
+  "job": "data_scientist.txt",
+  "candidate_id": "591dcef6-87e9-4ccf-bb91-5c8176930985",
+  "questions": [
+    {
+      "id": "1",
+      "text": "How do you explain model limitations to non-technical stakeholders?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "What is tell me in simple words how you work with engineers and product to ship an ML feature in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "In simple terms, tell me in simple words how you work with engineers and product to ship an ML feature in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Briefly, tell me in simple words how you work with engineers and product to ship an ML feature in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "How do you explain model limitations to non-technical stakeholders?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [
+    {
+      "question": {
+        "id": "1",
+        "text": "How do you explain model limitations to non-technical stakeholders?",
+        "metadata": {
+          "source": "mock"
+        }
+      },
+      "answer": "",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "culture": 0.0,
+        "notes": "No answer provided"
+      },
+      "answered_at": 1764409929.4469714
+    }
+  ],
+  "current_index": 1,
+  "started_at": 1764409915.2278988
+}

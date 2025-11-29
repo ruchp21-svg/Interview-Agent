@@ -1,0 +1,856 @@
+{
+  "data_scientist.txt": [
+    {
+      "id": "1",
+      "text": "Briefly, what is a machine learning model? Give a simple example for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you explain model limitations to non-technical stakeholders?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: sketch a simple design for serving a model for Machine Learning Engineer users with high-level components.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you optimize inference performance (latency and throughput) for models serving Machine Learning Engineer traffic?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a situation where data quality impacted a model in production and how you handled it in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design an online inference system for Machine Learning Engineer with high availability and autoscaling. Explain component choices.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you collaborate across teams (infra, product, data) when shipping ML features for Machine Learning Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Sketch a feature-store and experiment-tracking architecture for reproducible ML in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: what steps would you take to evaluate a model quickly for Machine Learning Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you explain model limitations to non-technical stakeholders?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, how would you keep model inference fast and simple for a small-scale service?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Tell me about a time you had to balance model accuracy vs engineering constraints; how did you communicate tradeoffs?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Sketch a feature-store and experiment-tracking architecture for reproducible ML in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a situation where data quality impacted a model in production and how you handled it in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Propose an ML monitoring and alerting plan for production models in Machine Learning Engineer. Include metrics and thresholds.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "devops_engineer.txt": [
+    {
+      "id": "1",
+      "text": "What is explain the CI/CD pipeline you'd put in place for deploying services in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, how do you approach incident response and postmortems for production outages in DevOps / SRE?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, describe how you would design scalable infrastructure for high availability in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you approach incident response and postmortems for production outages in DevOps / SRE?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain the CI/CD pipeline you'd put in place for deploying services in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe how you would design scalable infrastructure for high availability in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe how you would design scalable infrastructure for high availability in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain the CI/CD pipeline you'd put in place for deploying services in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you approach incident response and postmortems for production outages in DevOps / SRE?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "What is describe how you would design scalable infrastructure for high availability in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, how do you approach incident response and postmortems for production outages in DevOps / SRE?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: explain the CI/CD pipeline you'd put in place for deploying services in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain the CI/CD pipeline you'd put in place for deploying services in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain the CI/CD pipeline you'd put in place for deploying services in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe how you would design scalable infrastructure for high availability in DevOps / SRE.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you approach incident response and postmortems for production outages in DevOps / SRE?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you approach incident response and postmortems for production outages in DevOps / SRE?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "frontend_engineer.txt": [
+    {
+      "id": "1",
+      "text": "What is how do you make a React UI feel faster? Name a couple of ways.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, tell about a time you had to communicate a UI tradeoff to a designer or PM.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "What is sketch a simple component to render a list of items with good performance.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you design responsive components and ensure accessibility for a product in Frontend Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you balance quick engineering fixes versus long-term code health when shipping features in Frontend Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design a reusable component library for Frontend Engineer products; what patterns and constraints would you include?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain how you'd optimize rendering performance and minimize bundle size for a React app in Frontend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you balance quick engineering fixes versus long-term code health when shipping features in Frontend Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design a reusable component library for Frontend Engineer products; what patterns and constraints would you include?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "What is how do you make a React UI feel faster? Name a couple of ways.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Briefly, tell about a time you had to communicate a UI tradeoff to a designer or PM.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, sketch a simple component to render a list of items with good performance.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain how you'd optimize rendering performance and minimize bundle size for a React app in Frontend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a time you resolved a cross-team UX conflict and the steps you took to reach agreement.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design a reusable component library for Frontend Engineer products; what patterns and constraints would you include?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain how you'd optimize rendering performance and minimize bundle size for a React app in Frontend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you balance quick engineering fixes versus long-term code health when shipping features in Frontend Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "ml_engineer.txt": [
+    {
+      "id": "1",
+      "text": "Briefly, describe in simple terms how you would build a training pipeline for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: describe a small example where model results changed product decisions and what you did next.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: what monitoring would you set up to know if a model in Machine Learning Engineer is performing badly?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Tell me about a time you had to balance model accuracy vs engineering constraints; how did you communicate tradeoffs?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Sketch a feature-store and experiment-tracking architecture for reproducible ML in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a situation where data quality impacted a model in production and how you handled it in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design an online inference system for Machine Learning Engineer with high availability and autoscaling. Explain component choices.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: describe in simple terms how you would build a training pipeline for Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How do you explain model limitations to non-technical stakeholders?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Briefly, what monitoring would you set up to know if a model in Machine Learning Engineer is performing badly?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Tell me about a time you had to balance model accuracy vs engineering constraints; how did you communicate tradeoffs?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design an online inference system for Machine Learning Engineer with high availability and autoscaling. Explain component choices.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a situation where data quality impacted a model in production and how you handled it in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "product_manager.txt": [
+    {
+      "id": "1",
+      "text": "What is how would you prioritize features and balance stakeholder needs for a product in Product Manager?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: explain a market research approach you'd use to validate a new feature for Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: explain a market research approach you'd use to validate a new feature for Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain a market research approach you'd use to validate a new feature for Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you prioritize features and balance stakeholder needs for a product in Product Manager?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain a market research approach you'd use to validate a new feature for Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a roadmap and metrics you'd use to measure success for a product in Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a roadmap and metrics you'd use to measure success for a product in Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a roadmap and metrics you'd use to measure success for a product in Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, how would you prioritize features and balance stakeholder needs for a product in Product Manager?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "What is explain a market research approach you'd use to validate a new feature for Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, explain a market research approach you'd use to validate a new feature for Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you prioritize features and balance stakeholder needs for a product in Product Manager?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a roadmap and metrics you'd use to measure success for a product in Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you prioritize features and balance stakeholder needs for a product in Product Manager?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Describe a roadmap and metrics you'd use to measure success for a product in Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain a market research approach you'd use to validate a new feature for Product Manager.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "sample_jd.txt": [
+    {
+      "id": "1",
+      "text": "Explain simply: explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, how would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design a scalable API for Senior Backend Engineer and explain caching and database strategies.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design a scalable API for Senior Backend Engineer and explain caching and database strategies.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: how would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: how would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design a scalable API for Senior Backend Engineer and explain caching and database strategies.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "senior_backend_engineer.txt": [
+    {
+      "id": "1",
+      "text": "Explain simply: how would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain simply: how would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design a scalable API for Senior Backend Engineer and explain caching and database strategies.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "In simple terms, design a scalable API for Senior Backend Engineer and explain caching and database strategies.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "What is explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Briefly, design a scalable API for Senior Backend Engineer and explain caching and database strategies.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Explain your approach to distributed tracing and observability for backend systems in Senior Backend Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "Design a scalable API for Senior Backend Engineer and explain caching and database strategies.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "1",
+      "text": "How would you optimize database schema and queries for high throughput in Senior Backend Engineer systems?",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ]
+}

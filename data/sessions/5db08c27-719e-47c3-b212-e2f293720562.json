@@ -1,0 +1,45 @@
+{
+  "session_id": "5db08c27-719e-47c3-b212-e2f293720562",
+  "job": "data_scientist.txt",
+  "candidate_id": "0bc3bef1-5413-44f0-9c81-77f2255f1f41",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Explain the model architecture you would choose for Machine Learning Engineer and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Walk me through training, validation and deployment steps you would use for a production ML pipeline in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764409594.8268445
+}

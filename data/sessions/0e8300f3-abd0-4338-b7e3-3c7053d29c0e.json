@@ -1,0 +1,45 @@
+{
+  "session_id": "0e8300f3-abd0-4338-b7e3-3c7053d29c0e",
+  "job": "data_scientist.txt",
+  "candidate_id": "7e0b312d-4887-4602-a468-a9b06d811001",
+  "questions": [
+    {
+      "id": "1",
+      "text": "How do you collaborate across teams (infra, product, data) when shipping ML features for Machine Learning Engineer?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Describe a situation where data quality impacted a model in production and how you handled it in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Tell me about a time you had to balance model accuracy vs engineering constraints; how did you communicate tradeoffs?",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Describe a situation where data quality impacted a model in production and how you handled it in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Describe a situation where data quality impacted a model in production and how you handled it in Machine Learning Engineer.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764409614.3733165
+}

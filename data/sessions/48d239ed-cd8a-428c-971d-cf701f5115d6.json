@@ -1,0 +1,45 @@
+{
+  "session_id": "48d239ed-cd8a-428c-971d-cf701f5115d6",
+  "job": "data_scientist.txt",
+  "candidate_id": "e17ff03f-5da9-453d-b72b-326725bca078",
+  "questions": [
+    {
+      "id": "1",
+      "text": "Walk me through how you'd build a feature pipeline for Data and how you'd ensure data quality.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Describe how you'd evaluate model performance in production and detect model drift for Scientist.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "3",
+      "text": "Explain the model architecture you would choose for We and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "4",
+      "text": "Explain the model architecture you would choose for scientist and why. Discuss tradeoffs for latency vs accuracy.",
+      "metadata": {
+        "source": "mock"
+      }
+    },
+    {
+      "id": "5",
+      "text": "Describe how you'd evaluate model performance in production and detect model drift for experienced.",
+      "metadata": {
+        "source": "mock"
+      }
+    }
+  ],
+  "responses": [],
+  "current_index": 0,
+  "started_at": 1764408667.8495274
+}

@@ -1,0 +1,10 @@
+Product Manager
+
+We are seeking a product manager who can define product strategy and collaborate with engineering and design teams. Required: stakeholder management, roadmap planning, metrics-driven decision making, and strong communication skills.
+
+Responsibilities:
+- Own product vision and execution
+- Translate customer needs into features and specs
+- Work closely with engineering to ship products
+
+Nice to have: strong technical background, data analysis skills, and prior SaaS product experience.
