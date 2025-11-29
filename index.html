@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Interview Agent</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 50px auto; padding: 20px; }
+        button { background: #0066cc; color: white; padding: 10px 20px; border: none; cursor: pointer; }
+        textarea { width: 100%; height: 100px; margin: 10px 0; }
+        .question { background: #f0f0f0; padding: 15px; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <h1>AI Interview Agent</h1>
+    <select id="jobSelect">
+        <option>Data Scientist</option>
+        <option>ML Engineer</option>
+        <option>Backend Engineer</option>
+    </select>
+    <button onclick="startInterview()">Start Interview</button>
+    <div id="interview"></div>
+    <script>
+        let currentQ = 0;
+        const questions = [
+            "Explain your experience with machine learning",
+            "Describe a challenging project you worked on",
+            "How do you handle production issues?",
+            "What's your approach to code review?",
+            "Tell me about a time you optimized performance"
+        ];
+        function startInterview() {
+            document.getElementById('interview').innerHTML = `
+                <div class="question">
+                    <h3>Question ${currentQ + 1}/${questions.length}</h3>
+                    <p>${questions[currentQ]}</p>
+                    <textarea id="answer"></textarea>
+                    <button onclick="submitAnswer()">Submit</button>
+                </div>`;
+        }
+        function submitAnswer() {
+            currentQ++;
+            if (currentQ < questions.length) startInterview();
+            else document.getElementById('interview').innerHTML = '<h2>Interview Complete!</h2>';
+        }
+    </script>
+</body>
+</html>
